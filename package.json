@@ -35,7 +35,7 @@
     "react-icons": "^3.10.0",
     "tailwindcss": "^1.4.4",
     "typeface-roboto": "0.0.75",
-    "snyk": "^1.369.2"
+    "snyk": "^1.425.4"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
